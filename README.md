@@ -6,8 +6,10 @@ Some of things we'll want to practice are:
 - Cloning the repository.
 - Making a change and creating a pull request.
 - Viewing previous changes.
+- Fetch changes
 
 ## Cloning a repository
 
 ## Creating a pull request
 
+## Fetch changes
