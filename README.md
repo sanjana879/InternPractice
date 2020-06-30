@@ -7,3 +7,7 @@ Some of things we'll want to practice are:
 - Making a change and creating a pull request.
 - Viewing previous changes.
 
+## Cloning a repository
+
+## Creating a pull request
+
