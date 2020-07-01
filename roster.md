@@ -10,7 +10,7 @@ var amonte = {
     }
 }
 ```
-## Martin Vityk (Mobile Software Dev)
+## Martin Vityk (Firebase)
 Strengths
 - Android App Dev
 - IOS Dev
