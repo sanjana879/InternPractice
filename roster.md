@@ -191,7 +191,7 @@ Interests
 - Music
 =======
 
-## Sonia Saitawdekar (Mobile)
+## Sonia Saitawdekar (Mobile Dev)
 Strengths
 - Java
 - Web Development (HTML/CSS/JS)
