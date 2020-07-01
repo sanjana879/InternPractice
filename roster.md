@@ -115,6 +115,23 @@ Reading autobiograpies
 Traveling (Have been to England, Wales, Montreal, and Amsterdam)
 
 
+## Sophia Koeut (TBD because my name is so popular)
+Strengths
+Javascript
+Front-End: React, HTML, CSS (Preferred)
+Back-End: Node, PostgreSQL
+
+Experience:
+-Currently maintaining a Necessary Behavior's site that uses Shopify
+-Built various full stack projects such as a Pictionary game, a To-Do List, and Language E-learning site, with occasional front-end projects.
+
+Interests: 
+Cooking,
+Trying new foods (foodie),
+Gaming,
+Dancing
+
+
 ## Giovann Fox (Backend)
 -Working on database/backend/architecture
 
@@ -126,5 +143,6 @@ Strengths
 Interests
 - Guitar
 - Video Games
+
 
 
