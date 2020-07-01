@@ -26,6 +26,7 @@ Interests
 - Gaming (League, tft)
 - Hiking
 
+
 ## Juan Becerra (Mobile)
 Stengths
 - Android development (Android Studio, Java, bit of React Native)
@@ -40,3 +41,35 @@ Interests
 - Music (band geek, bassist)
 - Gaming
 - Road/Mountain Biking
+
+## Adrianna Zhao (UI)
+Strengths
+- HTML + CSS + Javascript + React
+- IOS Dev
+- Firebase
+
+Experience
+- iOS Weather App using Firebase and Firestore
+- Project website using React
+
+Interests
+- Digital Art
+- Baking
+- Reading
+
+## Ido Katz (Mobile Dev Ops)
+Strengths
+- Communication and Teamwork
+- Java
+
+Experience
+- Made a website using HTML and WordPress: idokatz.com
+
+Interests
+- TV
+	- Money Heist
+	- Lost 
+	- Parks and Rec
+- Ultimate Frisbee
+- Photography
+
