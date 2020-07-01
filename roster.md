@@ -38,7 +38,6 @@ Interests
 - Gaming (League, tft)
 - Hiking
 
-
 ## Juan Becerra (Mobile)
 Stengths
 - Android development (Android Studio, Java, bit of React Native)
@@ -155,4 +154,17 @@ Interests
 - Guitar
 - Video Games
 
+## Adil Merribi (Mobile Dev)
+Strengths
+- Mobile Dev (Java/Python)
+- Web Dev
+
+Experience
+- Creating Web apps (JS/HTML/CSS).
+- Developed a simple cross platform Mobile apps (Xcode/Android Studio).
+
+Interests
+- Soccer
+- Gaming
+- Coding
 
