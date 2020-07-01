@@ -25,3 +25,17 @@ Interests
 - Acting
 - Gaming (League, tft)
 - Hiking
+
+## Adil Merribi (Mobile Dev)
+Strengths
+- Mobile Dev (Java/Python)
+- Web Dev
+
+Experience
+- Creating Web apps (JS/HTML/CSS).
+- Developed a simple cross platform Mobile apps (Xcode/Android Studio).
+
+Interests
+- Soccer
+- Gaming
+- Coding
