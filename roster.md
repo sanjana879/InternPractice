@@ -10,3 +10,18 @@ var amonte = {
     }
 }
 ```
+## Martin Vityk (Mobile Software Dev)
+Strengths
+- Android App Dev
+- IOS Dev
+- Firebase
+
+Experience
+- Android App that uses Realtime Firebase Database to handle a live queue
+- Cross platform app developed in both IOS and Android environments
+- Server side Firebase Functions written in nodejs
+
+Interests
+- Acting
+- Gaming (League, tft)
+- Hiking
