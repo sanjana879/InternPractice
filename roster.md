@@ -73,3 +73,13 @@ Interests
 - Ultimate Frisbee
 - Photography
 
+## Luis MOran
+Strengths: 
+-JavaScript
+-Python
+-HTML5 and CSS3
+
+Interests: 
+-Cooking
+-Coding
+-Lacrosse
