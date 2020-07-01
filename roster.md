@@ -40,3 +40,19 @@ Interests
 - Digital Art
 - Baking
 - Reading
+=======
+## Ido Katz (Mobile Dev Ops)
+Strengths
+- Communication and Teamwork
+- Java
+
+Experience
+- Made a website using HTML and WordPress: idokatz.com
+
+Interests
+- TV
+	- Money Heist
+	- Lost 
+	- Parks and Rec
+- Ultimate Frisbee
+- Photography
