@@ -74,7 +74,6 @@ Interests
 - Ultimate Frisbee
 - Photography
 
-
 ## Mitchell Lin (Front-End Web Development)
 Strengths
 - Web Design
@@ -114,5 +113,18 @@ Interests:
 Collecting Vinyls
 Reading autobiograpies
 Traveling (Have been to England, Wales, Montreal, and Amsterdam)
+
+
+## Giovann Fox (Backend)
+-Working on database/backend/architecture
+
+Strengths
+-Leadership
+-Patience
+-Java and C++
+
+Interests
+- Guitar
+- Video Games
 
 
