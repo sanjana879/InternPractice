@@ -1,7 +1,7 @@
 # Intern Roster
 
 ## Amonte Andrews (no team)
-``` js 
+``` js
 var amonte = {
     niceGuy:true,
     covidHobbies:['Dark Season 3', 'Coding', 'Reading'],
@@ -9,6 +9,7 @@ var amonte = {
         return !andStrengths ? "Posted in slack" : "Still posted in slack.";
     }
 }
+
 ```
 ## Martin Vityk (Firebase)
 Strengths
@@ -68,10 +69,51 @@ Experience
 Interests
 - TV
 	- Money Heist
-	- Lost 
+	- Lost
 	- Parks and Rec
 - Ultimate Frisbee
 - Photography
+
+## Mitchell Lin (Front-End Web Development)
+Strengths
+- Web Design
+- Functional Programming
+
+Experience
+- Created Websites with HTML, CSS, PHP, and SQL
+- Created Mental Health iOS App for University using Swift
+
+Interests
+- 3D Modeling and Animation
+- Basketball and Tennis
+- Singing
+
+
+## Luis Moran  (Front End Web Developer)
+- Strengths: 
+    - JavaScript
+    - Python
+    - HTML5 and CSS3
+
+- Interests: 
+    -Cooking
+    -Coding
+    -Lacrosse
+
+## Cameron Senor (Database/Architect)
+Strengths
+Backend development using Java and C
+Experience with IntelliJ/Command Prompt and Vim/Linux 
+
+Expereince:
+This is my first internship, so looking to build my experience with TurnUp!
+Languages: Java, C, SQL, MIPS.
+
+Interests: 
+Collecting Vinyls
+Reading autobiograpies
+Traveling (Have been to England, Wales, Montreal, and Amsterdam)
+
 
 ## Giovann Fox (Backend)
 -Working on database/backend/architecture
