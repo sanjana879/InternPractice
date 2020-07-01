@@ -73,13 +73,13 @@ Interests
 - Ultimate Frisbee
 - Photography
 
-## Luis MOran
-Strengths: 
--JavaScript
--Python
--HTML5 and CSS3
+## Luis Moran  (Front End Web Developer)
+- Strengths: 
+    - JavaScript
+    - Python
+    - HTML5 and CSS3
 
-Interests: 
--Cooking
--Coding
--Lacrosse
+- Interests: 
+    -Cooking
+    -Coding
+    -Lacrosse
