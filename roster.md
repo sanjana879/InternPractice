@@ -26,6 +26,21 @@ Interests
 - Gaming (League, tft)
 - Hiking
 
+## Adrianna Zhao (UI)
+Strengths
+- HTML + CSS + Javascript + React
+- IOS Dev
+- Firebase
+
+Experience
+- iOS Weather App using Firebase and Firestore
+- Project website using React
+
+Interests
+- Digital Art
+- Baking
+- Reading
+=======
 ## Ido Katz (Mobile Dev Ops)
 Strengths
 - Communication and Teamwork
