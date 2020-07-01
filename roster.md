@@ -73,3 +73,16 @@ Interests
 - Ultimate Frisbee
 - Photography
 
+## Giovann Fox (Backend)
+-Working on database/backend/architecture
+
+Strengths
+-Leadership
+-Patience
+-Java and C++
+
+Interests
+- Guitar
+- Video Games
+
+
