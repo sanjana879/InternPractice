@@ -1,7 +1,7 @@
 # Intern Roster
 
 ## Amonte Andrews (no team)
-``` js 
+``` js
 var amonte = {
     niceGuy:true,
     covidHobbies:['Dark Season 3', 'Coding', 'Reading'],
@@ -68,8 +68,21 @@ Experience
 Interests
 - TV
 	- Money Heist
-	- Lost 
+	- Lost
 	- Parks and Rec
 - Ultimate Frisbee
 - Photography
 
+## Mitchell Lin (Front-End Web Development)
+Strengths
+- Web Design
+- Functional Programming
+
+Experience
+- Created Websites with HTML, CSS, PHP, and SQL
+- Created Mental Health iOS App for University using Swift
+
+Interests
+- 3D Modeling and Animation
+- Basketball and Tennis
+- Singing
