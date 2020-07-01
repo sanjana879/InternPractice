@@ -73,3 +73,13 @@ Interests
 - Ultimate Frisbee
 - Photography
 
+
+## Luis Moran (Front Web Developer)
+Strengths:
+-Javascript
+-Python
+
+Interests
+-Cooking
+-Working on cars
+-Coding
