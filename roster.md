@@ -75,15 +75,16 @@ Interests
 - Photography
 
 
-## Luis Moran (Front Web Developer)
-Strengths:
--Javascript
--Python
+## Luis Moran  (Front End Web Developer)
+- Strengths: 
+    - JavaScript
+    - Python
+    - HTML5 and CSS3
 
-Interests
--Cooking
--Working on cars
--Coding
+- Interests: 
+    -Cooking
+    -Coding
+    -Lacrosse
 
 ## Cameron Senor (Database/Architect)
 Strengths
@@ -98,4 +99,5 @@ Interests:
 Collecting Vinyls
 Reading autobiograpies
 Traveling (Have been to England, Wales, Montreal, and Amsterdam)
+
 
