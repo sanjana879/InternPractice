@@ -10,3 +10,12 @@ var amonte = {
     }
 }
 ```
+
+## Iniya Rajamani (Front-End Development Team)
+``` js 
+var amonte = {
+    frontEndDevTeam: true,
+    thingsILove:['Photgraphy', 'Comp Sci', 'Criminal Minds'],
+    stregnths:['Enthusiastic about TurnUp', 'Creative', 'Determined']
+}
+```
