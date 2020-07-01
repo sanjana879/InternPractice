@@ -11,6 +11,17 @@ var amonte = {
 }
 
 ```
+
+## Iniya Rajamani (Front-End Development Team)
+``` js 
+var amonte = {
+    frontEndDevTeam: true,
+    thingsILove:['Photography', 'Comp Sci', 'Criminal Minds'],
+    stregnths:['Enthusiastic about TurnUp', 'Creative', 'Determined']
+}
+```
+
+```
 ## Martin Vityk (Firebase)
 Strengths
 - Android App Dev
@@ -143,6 +154,5 @@ Strengths
 Interests
 - Guitar
 - Video Games
-
 
 
