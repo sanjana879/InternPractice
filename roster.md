@@ -13,7 +13,7 @@ var amonte = {
 ```
 
 ## Iniya Rajamani (Front-End Development Team)
-``` js 
+``` js
 var amonte = {
     frontEndDevTeam: true,
     thingsILove:['Photography', 'Comp Sci', 'Criminal Minds'],
@@ -100,12 +100,12 @@ Interests
 
 
 ## Luis Moran  (Front End Web Developer)
-- Strengths: 
+- Strengths:
     - JavaScript
     - Python
     - HTML5 and CSS3
 
-- Interests: 
+- Interests:
     -Cooking
     -Coding
     -Lacrosse
@@ -113,13 +113,13 @@ Interests
 ## Cameron Senor (Database/Architect)
 Strengths
 Backend development using Java and C
-Experience with IntelliJ/Command Prompt and Vim/Linux 
+Experience with IntelliJ/Command Prompt and Vim/Linux
 
 Expereince:
 This is my first internship, so looking to build my experience with TurnUp!
 Languages: Java, C, SQL, MIPS.
 
-Interests: 
+Interests:
 Collecting Vinyls
 Reading autobiograpies
 Traveling (Have been to England, Wales, Montreal, and Amsterdam)
@@ -135,7 +135,7 @@ Experience:
 -Currently maintaining a Necessary Behavior's site that uses Shopify
 -Built various full stack projects such as a Pictionary game, a To-Do List, and Language E-learning site, with occasional front-end projects.
 
-Interests: 
+Interests:
 Cooking,
 Trying new foods (foodie),
 Gaming,
@@ -190,3 +190,17 @@ Interests
 - Tennis
 - Music
 =======
+
+## Sonia Saitawdekar (Mobile)
+Strengths
+- Java
+- Web Development (HTML/CSS/JS)
+
+Experience
+- This is my first internship, so I'm looking forward to building my skills!
+- Creating small websites / Java programs
+
+Interests
+- Reading
+- Video editing
+- Dance
