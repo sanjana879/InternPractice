@@ -25,3 +25,18 @@ Interests
 - Acting
 - Gaming (League, tft)
 - Hiking
+
+## Juan Becerra (Mobile)
+Stengths
+- Android development (Android Studio, Java, bit of React Native)
+- Backend web development (SQL, node.js)
+
+Experience
+- Worked in financial software and data science in previous internship
+- Undergrad assistant for 2D/3D asset management research project
+- Personal projects: Unity games/simulations and real-time 3D renderer (C++/OpenGL)
+
+Interests
+- Music (band geek, bassist)
+- Gaming
+- Road/Mountain Biking
