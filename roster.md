@@ -9,6 +9,7 @@ var amonte = {
         return !andStrengths ? "Posted in slack" : "Still posted in slack.";
     }
 }
+
 ```
 ## Martin Vityk (Firebase)
 Strengths
@@ -73,6 +74,7 @@ Interests
 - Ultimate Frisbee
 - Photography
 
+
 ## Luis Moran  (Front End Web Developer)
 - Strengths: 
     - JavaScript
@@ -83,3 +85,19 @@ Interests
     -Cooking
     -Coding
     -Lacrosse
+
+## Cameron Senor (Database/Architect)
+Strengths
+Backend development using Java and C
+Experience with IntelliJ/Command Prompt and Vim/Linux 
+
+Expereince:
+This is my first internship, so looking to build my experience with TurnUp!
+Languages: Java, C, SQL, MIPS.
+
+Interests: 
+Collecting Vinyls
+Reading autobiograpies
+Traveling (Have been to England, Wales, Montreal, and Amsterdam)
+
+
