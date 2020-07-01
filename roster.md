@@ -1,7 +1,7 @@
 # Intern Roster
 
 ## Amonte Andrews (no team)
-``` js 
+``` js
 var amonte = {
     niceGuy:true,
     covidHobbies:['Dark Season 3', 'Coding', 'Reading'],
@@ -69,21 +69,36 @@ Experience
 Interests
 - TV
 	- Money Heist
-	- Lost 
+	- Lost
 	- Parks and Rec
 - Ultimate Frisbee
 - Photography
 
+## Mitchell Lin (Front-End Web Development)
+Strengths
+- Web Design
+- Functional Programming
 
-## Luis Moran (Front Web Developer)
-Strengths:
--Javascript
--Python
+Experience
+- Created Websites with HTML, CSS, PHP, and SQL
+- Created Mental Health iOS App for University using Swift
 
 Interests
--Cooking
--Working on cars
--Coding
+- 3D Modeling and Animation
+- Basketball and Tennis
+- Singing
+
+
+## Luis Moran  (Front End Web Developer)
+- Strengths: 
+    - JavaScript
+    - Python
+    - HTML5 and CSS3
+
+- Interests: 
+    -Cooking
+    -Coding
+    -Lacrosse
 
 ## Cameron Senor (Database/Architect)
 Strengths
@@ -98,6 +113,7 @@ Interests:
 Collecting Vinyls
 Reading autobiograpies
 Traveling (Have been to England, Wales, Montreal, and Amsterdam)
+
 
 ## Sophia Koeut (TBD because my name is so popular)
 Strengths
@@ -114,5 +130,19 @@ Cooking,
 Trying new foods (foodie),
 Gaming,
 Dancing
+
+
+## Giovann Fox (Backend)
+-Working on database/backend/architecture
+
+Strengths
+-Leadership
+-Patience
+-Java and C++
+
+Interests
+- Guitar
+- Video Games
+
 
 
