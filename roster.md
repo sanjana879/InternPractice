@@ -83,3 +83,21 @@ Interests
 -Cooking
 -Working on cars
 -Coding
+
+
+## Shayan Amirhosseini (Front Web Developer)
+Strengths
+- React.js
+- Next.js
+- Python
+- Java
+
+Experience
+- E-commerce web app using React.js, Next.js, MongoDB
+- My personal blog, using React.js, Gatsby, a little bit of GraphQL
+- Chat app using web socket, express, react.js
+
+Interests
+- Running
+- Tennis
+- Music
