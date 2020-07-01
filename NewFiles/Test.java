@@ -1,9 +1,12 @@
-
-class JuanBecerra
+/*
+Feel free to add other functions to this file for practice!
+*/
+class Test
 {
 	public static void main ( String args[] )
 	{
-		System.out.println("Hello from Juan!");
+		System.out.println("This is a test class!");
+		
 		int testArr[] = {1,2,3};
 		System.out.println("1+2+3 = " + getSum(testArr));
 	}
