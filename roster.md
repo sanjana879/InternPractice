@@ -189,6 +189,22 @@ Interests
 - Video editing
 - Dance
 
+### Ramitha Kotarkonda (mobile developer)
+Strengths
+-Java
+-C
+- Mobile Dev
+
+Experience
+- created mobile apps using firebase and xcode
+- created a midifile converter (back end and front end)
+
+Interests
+- Tennis
+- Dance
+- Cooking
+- Coding
+
 ## Devops Team
 
 ### Ido Katz (Mobile Dev Ops)
@@ -200,17 +216,14 @@ Experience
 - Made a website using HTML and WordPress: idokatz.com
 
 Interests
+
+- Running
+- Tennis
+- Music
 - TV
 	- Money Heist
 	- Lost
 	- Parks and Rec
 - Ultimate Frisbee
 - Photography
-
-
-
-
-
-
-
 
