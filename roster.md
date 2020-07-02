@@ -190,3 +190,20 @@ Interests
 - Tennis
 - Music
 =======
+
+
+## Ramitha Kotarkonda (mobile developer)
+Strengths
+-Java
+-C
+- Mobile Dev
+
+Experience
+- created mobile apps using firebase and xcode
+- created a midifile converter (back end and front end)
+
+Interests
+- Tennis
+- Dance
+- Cooking
+- Coding
