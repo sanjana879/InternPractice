@@ -175,6 +175,20 @@ Interests
 - Gaming
 - Coding
 
+### Sonia Saitawdekar (Mobile Dev)
+Strengths
+- Java
+- Web Development (HTML/CSS/JS)
+
+Experience
+- This is my first internship, so I'm looking forward to building my skills!
+- Creating small websites / Java programs
+
+Interests
+- Reading
+- Video editing
+- Dance
+
 ## Devops Team
 
 ### Ido Katz (Mobile Dev Ops)
