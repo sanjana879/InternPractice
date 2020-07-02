@@ -114,7 +114,6 @@ Interests
 - Swimming
 - TV Addict 
 
-
 ## Database Team (Firebase)
 ### Martin Vityk 
 Strengths
