@@ -97,6 +97,23 @@ Interests
 - Tennis
 - Music
 
+### Lisa Eng (Front-End Web Developer)
+Strengths
+- HTML/CSS
+- Python
+- Java
+- PHP
+- SQL
+
+Experience
+- Developed websites (one displaying recipes and another is a gallery) using HTML/CSS, Javascript, PHP, and SQL
+- Developed in house app to simplify job application process using C# and Javascript.
+
+Interests
+- Cooking/trying new foods
+- Swimming
+- TV Addict 
+
 
 ## Database Team (Firebase)
 ### Martin Vityk 
