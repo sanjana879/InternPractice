@@ -1,6 +1,6 @@
 # Intern Roster
 
-## Amonte Andrews (no team)
+### Amonte Andrews (no team)
 ``` js
 var amonte = {
     niceGuy:true,
@@ -12,7 +12,9 @@ var amonte = {
 
 ```
 
-## Iniya Rajamani (Front-End Development Team)
+## Web Developers
+
+### Iniya Rajamani (Front-End Development Team)
 ``` js 
 var amonte = {
     frontEndDevTeam: true,
@@ -21,39 +23,7 @@ var amonte = {
 }
 ```
 
-```
-## Martin Vityk (Firebase)
-Strengths
-- Android App Dev
-- IOS Dev
-- Firebase
-
-Experience
-- Android App that uses Realtime Firebase Database to handle a live queue
-- Cross platform app developed in both IOS and Android environments
-- Server side Firebase Functions written in nodejs
-
-Interests
-- Acting
-- Gaming (League, tft)
-- Hiking
-
-## Juan Becerra (Mobile)
-Stengths
-- Android development (Android Studio, Java, bit of React Native)
-- Backend web development (SQL, node.js)
-
-Experience
-- Worked in financial software and data science in previous internship
-- Undergrad assistant for 2D/3D asset management research project
-- Personal projects: Unity games/simulations and real-time 3D renderer (C++/OpenGL)
-
-Interests
-- Music (band geek, bassist)
-- Gaming
-- Road/Mountain Biking
-
-## Adrianna Zhao (UI)
+### Adrianna Zhao (UI)
 Strengths
 - HTML + CSS + Javascript + React
 - IOS Dev
@@ -68,23 +38,7 @@ Interests
 - Baking
 - Reading
 
-## Ido Katz (Mobile Dev Ops)
-Strengths
-- Communication and Teamwork
-- Java
-
-Experience
-- Made a website using HTML and WordPress: idokatz.com
-
-Interests
-- TV
-	- Money Heist
-	- Lost
-	- Parks and Rec
-- Ultimate Frisbee
-- Photography
-
-## Mitchell Lin (Front-End Web Development)
+### Mitchell Lin (Front-End Web Development)
 Strengths
 - Web Design
 - Functional Programming
@@ -99,7 +53,7 @@ Interests
 - Singing
 
 
-## Luis Moran  (Front End Web Developer)
+### Luis Moran  (Front End Web Developer)
 - Strengths: 
     - JavaScript
     - Python
@@ -110,22 +64,7 @@ Interests
     -Coding
     -Lacrosse
 
-## Cameron Senor (Database/Architect)
-Strengths
-Backend development using Java and C
-Experience with IntelliJ/Command Prompt and Vim/Linux 
-
-Expereince:
-This is my first internship, so looking to build my experience with TurnUp!
-Languages: Java, C, SQL, MIPS.
-
-Interests: 
-Collecting Vinyls
-Reading autobiograpies
-Traveling (Have been to England, Wales, Montreal, and Amsterdam)
-
-
-## Sophia Koeut (TBD because my name is so popular)
+### Sophia Koeut (TBD because my name is so popular)
 Strengths
 Javascript
 Front-End: React, HTML, CSS (Preferred)
@@ -141,39 +80,7 @@ Trying new foods (foodie),
 Gaming,
 Dancing
 
-
-## Giovann Fox (Backend)
--Working on database/backend/architecture
-
-Strengths
--Leadership
--Patience
--Java and C++
-
-Interests
-
--Cooking
--Working on cars
--Coding
-- Guitar
-- Video Games
-
-## Adil Merribi (Mobile Dev)
-Strengths
-- Mobile Dev (Java/Python)
-- Web Dev
-
-Experience
-- Creating Web apps (JS/HTML/CSS).
-- Developed a simple cross platform Mobile apps (Xcode/Android Studio).
-
-Interests
-- Soccer
-- Gaming
-- Coding
-
-
-## Shayan Amirhosseini (Front Web Developer)
+### Shayan Amirhosseini (Front Web Developer)
 Strengths
 - React.js
 - Next.js
@@ -189,10 +96,100 @@ Interests
 - Running
 - Tennis
 - Music
-=======
 
 
-## Ramitha Kotarkonda (mobile developer)
+## Database Team (Firebase)
+### Martin Vityk 
+Strengths
+- Android App Dev
+- IOS Dev
+- Firebase
+
+Experience
+- Android App that uses Realtime Firebase Database to handle a live queue
+- Cross platform app developed in both IOS and Android environments
+- Server side Firebase Functions written in nodejs
+
+Interests
+- Acting
+- Gaming (League, tft)
+- Hiking
+
+### Giovann Fox (Backend)
+- Working on database/backend/architecture
+
+Strengths
+- Leadership
+- Patience
+- Java and C++
+
+Interests
+
+- Cooking
+- Working on cars
+- Coding
+- Guitar
+- Video Games
+
+### Cameron Senor (Database/Architect)
+Strengths
+Backend development using Java and C
+Experience with IntelliJ/Command Prompt and Vim/Linux 
+
+Expereince:
+This is my first internship, so looking to build my experience with TurnUp!
+Languages: Java, C, SQL, MIPS.
+
+Interests: 
+Collecting Vinyls
+Reading autobiograpies
+Traveling (Have been to England, Wales, Montreal, and Amsterdam)
+
+## Mobile Team
+### Juan Becerra (Mobile)
+Stengths
+- Android development (Android Studio, Java, bit of React Native)
+- Backend web development (SQL, node.js)
+
+Experience
+- Worked in financial software and data science in previous internship
+- Undergrad assistant for 2D/3D asset management research project
+- Personal projects: Unity games/simulations and real-time 3D renderer (C++/OpenGL)
+
+Interests
+- Music (band geek, bassist)
+- Gaming
+- Road/Mountain Biking
+
+### Adil Merribi (Mobile Dev)
+Strengths
+- Mobile Dev (Java/Python)
+- Web Dev
+
+Experience
+- Creating Web apps (JS/HTML/CSS).
+- Developed a simple cross platform Mobile apps (Xcode/Android Studio).
+
+Interests
+- Soccer
+- Gaming
+- Coding
+
+### Sonia Saitawdekar (Mobile Dev)
+Strengths
+- Java
+- Web Development (HTML/CSS/JS)
+
+Experience
+- This is my first internship, so I'm looking forward to building my skills!
+- Creating small websites / Java programs
+
+Interests
+- Reading
+- Video editing
+- Dance
+
+### Ramitha Kotarkonda (mobile developer)
 Strengths
 -Java
 -C
@@ -207,3 +204,26 @@ Interests
 - Dance
 - Cooking
 - Coding
+
+## Devops Team
+
+### Ido Katz (Mobile Dev Ops)
+Strengths
+- Communication and Teamwork
+- Java
+
+Experience
+- Made a website using HTML and WordPress: idokatz.com
+
+Interests
+
+- Running
+- Tennis
+- Music
+- TV
+	- Money Heist
+	- Lost
+	- Parks and Rec
+- Ultimate Frisbee
+- Photography
+
