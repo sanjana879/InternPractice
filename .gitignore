@@ -103,6 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-CommentingPractce/node_modules/
-CommentingPractce/out/
-CommentingPractce/.DS_Store
+CommentingPractice/node_modules/
+CommentingPractice/out/
+CommentingPractice/.DS_Store
