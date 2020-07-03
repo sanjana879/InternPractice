@@ -22,7 +22,7 @@ var amonte = {
     }
 
 ### Iniya Rajamani (Front-End Development Team)
-``` js 
+``` js
 var amonte = {
     frontEndDevTeam: true,
     thingsILove:['Photography', 'Comp Sci', 'Criminal Minds'],
@@ -61,12 +61,12 @@ Interests
 
 
 ### Luis Moran  (Front End Web Developer)
-- Strengths: 
+- Strengths:
     - JavaScript
     - Python
     - HTML5 and CSS3
 
-- Interests: 
+- Interests:
     -Cooking
     -Coding
     -Lacrosse
@@ -81,7 +81,7 @@ Experience:
 -Currently maintaining a Necessary Behavior's site that uses Shopify
 -Built various full stack projects such as a Pictionary game, a To-Do List, and Language E-learning site, with occasional front-end projects.
 
-Interests: 
+Interests:
 Cooking,
 Trying new foods (foodie),
 Gaming,
@@ -104,9 +104,43 @@ Interests
 - Tennis
 - Music
 
+### Lisa Eng (Front-End Web Developer)
+Strengths
+- HTML/CSS
+- Python
+- Java
+- PHP
+- SQL
+
+Experience
+- Developed websites (one displaying recipes and another is a gallery) using HTML/CSS, Javascript, PHP, and SQL
+- Developed in house app to simplify job application process using C# and Javascript.
+
+Interests
+- Cooking/trying new foods
+- Swimming
+- TV Addict
+
+### Kalyan(Full Stack Developer)
+Experience 
+Made a loan application website with Angular as Front end 
+Involved in working the Django Rest Framework API 
+Implemented the Authentication logic of the application using AWS Cognito
+Created SQL Table and PL/SQL Stored procedures and Triggers that are required for the application
+
+Interests
+- Cricket(Sport)
+- Music
+- Cooking
+
+Strengths
+
+-Good communication skills
+-Teamwork
+-Quick Learner
 
 ## Database Team (Firebase)
-### Martin Vityk 
+### Martin Vityk
 Strengths
 - Android App Dev
 - IOS Dev
@@ -141,13 +175,13 @@ Interests
 ### Cameron Senor (Database/Architect)
 Strengths
 Backend development using Java and C
-Experience with IntelliJ/Command Prompt and Vim/Linux 
+Experience with IntelliJ/Command Prompt and Vim/Linux
 
 Expereince:
 This is my first internship, so looking to build my experience with TurnUp!
 Languages: Java, C, SQL, MIPS.
 
-Interests: 
+Interests:
 Collecting Vinyls
 Reading autobiograpies
 Traveling (Have been to England, Wales, Montreal, and Amsterdam)
@@ -195,6 +229,51 @@ Interests
 - Music
 - Reading
 - Yoga
+### Sonia Saitawdekar (Mobile Dev)
+Strengths
+- Java
+- Web Development (HTML/CSS/JS)
+
+Experience
+- This is my first internship, so I'm looking forward to building my skills!
+- Creating small websites / Java programs
+
+Interests
+- Reading
+- Video editing
+- Dance
+
+### Ramitha Kotarkonda (mobile developer)
+Strengths
+-Java
+-C
+- Mobile Dev
+
+Experience
+- created mobile apps using firebase and xcode
+- created a midifile converter (back end and front end)
+
+Interests
+- Tennis
+- Dance
+- Cooking
+- Coding
+
+### Sophia Sangervasi (Moblie Dev)
+Strengths:
+- Java
+- MIPS
+- Prolog
+- Teamwork
+
+Experience:
+- This is my first internship and I am excited to learn some new skills!
+
+Interests:
+- Lacrosse
+- Painting
+- Camping
+
 
 ## Devops Team
 
@@ -207,13 +286,16 @@ Experience
 - Made a website using HTML and WordPress: idokatz.com
 
 Interests
+
+- Running
+- Tennis
+- Music
 - TV
 	- Money Heist
 	- Lost
 	- Parks and Rec
 - Ultimate Frisbee
 - Photography
-
 
 
 
