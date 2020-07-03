@@ -221,6 +221,22 @@ Interests
 - Cooking
 - Coding
 
+### Sophia Sangervasi (Moblie Dev)
+Strengths:
+- Java
+- MIPS
+- Prolog
+- Teamwork
+
+Experience:
+- This is my first internship and I am excited to learn some new skills!
+
+Interests:
+- Lacrosse
+- Painting
+- Camping
+
+
 ## Devops Team
 
 ### Ido Katz (Mobile Dev Ops)
@@ -243,17 +259,4 @@ Interests
 - Ultimate Frisbee
 - Photography
 
-### Sophia Sangervasi (Moblie Dev)
-Strengths:
-- Java
-- MIPS
-- Prolog
-- Teamwork
 
-Experience:
-- This is my first internship and I am excited to learn some new skills!
-
-Interests:
-- Lacrosse
-- Painting
-- Camping
