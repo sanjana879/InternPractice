@@ -29,4 +29,4 @@
     return output;
 }
 
- export { randomlyCapitalize }
+ export { addSpace }

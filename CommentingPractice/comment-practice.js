@@ -14,7 +14,7 @@ import * as martin from './services/spaces.js';
      console.log(amonte.randomlyCapitalize(name));
     //used my own function because it doesnt seem like anybody else added something
     var space = "space is large";
-     console.log(martin.addSpace(space));
+     console.log(amonte.randomlyCapitalize(space));
  })()
 
 
