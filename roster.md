@@ -15,7 +15,7 @@ var amonte = {
 ## Web Developers
 
 ### Iniya Rajamani (Front-End Development Team)
-``` js 
+``` js
 var amonte = {
     frontEndDevTeam: true,
     thingsILove:['Photography', 'Comp Sci', 'Criminal Minds'],
@@ -54,12 +54,12 @@ Interests
 
 
 ### Luis Moran  (Front End Web Developer)
-- Strengths: 
+- Strengths:
     - JavaScript
     - Python
     - HTML5 and CSS3
 
-- Interests: 
+- Interests:
     -Cooking
     -Coding
     -Lacrosse
@@ -74,7 +74,7 @@ Experience:
 -Currently maintaining a Necessary Behavior's site that uses Shopify
 -Built various full stack projects such as a Pictionary game, a To-Do List, and Language E-learning site, with occasional front-end projects.
 
-Interests: 
+Interests:
 Cooking,
 Trying new foods (foodie),
 Gaming,
@@ -112,10 +112,10 @@ Experience
 Interests
 - Cooking/trying new foods
 - Swimming
-- TV Addict 
+- TV Addict
 
 ## Database Team (Firebase)
-### Martin Vityk 
+### Martin Vityk
 Strengths
 - Android App Dev
 - IOS Dev
@@ -150,13 +150,13 @@ Interests
 ### Cameron Senor (Database/Architect)
 Strengths
 Backend development using Java and C
-Experience with IntelliJ/Command Prompt and Vim/Linux 
+Experience with IntelliJ/Command Prompt and Vim/Linux
 
 Expereince:
 This is my first internship, so looking to build my experience with TurnUp!
 Languages: Java, C, SQL, MIPS.
 
-Interests: 
+Interests:
 Collecting Vinyls
 Reading autobiograpies
 Traveling (Have been to England, Wales, Montreal, and Amsterdam)
@@ -243,3 +243,17 @@ Interests
 - Ultimate Frisbee
 - Photography
 
+### Sophia Sangervasi (Moblie Dev)
+Strengths:
+- Java
+- MIPS
+- Prolog
+- Teamwork
+
+Experience:
+- This is my first internship and I am excited to learn some new skills!
+
+Interests:
+- Lacrosse
+- Painting
+- Camping
