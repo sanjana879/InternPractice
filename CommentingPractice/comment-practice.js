@@ -12,7 +12,7 @@ import { myName } from './services/practice.js';
     Template.printInstructions();
     var name = "AmonteAndrews";
      console.log(amonte.randomlyCapitalize(name));
-     console.log(myName());
+     myName();
  })()
 
 
