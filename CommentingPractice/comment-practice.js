@@ -5,7 +5,7 @@
 import Template from './model/template.js';
 import * as amonte from './services/capitalizer.js';
 
-import * as luis from './services/capitalizer.js';
+import * as luis from './services/backwardsName.js';
 
 
 
