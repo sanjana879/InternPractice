@@ -175,6 +175,20 @@ Interests
 - Gaming
 - Coding
 
+### Disha Patel (Mobile Dev)
+Strengths
+- JAVA, JSON, SQL
+- Android Studio, IntelliJ, Eclipse 
+
+Experience
+- SAP BW and SAP ABAP
+- developed various apps in Android Studio using Java & iOS apps using Swift 4.2 in XCode 10
+
+Interests
+- Music
+- Reading
+- Yoga
+
 ## Devops Team
 
 ### Ido Katz (Mobile Dev Ops)
