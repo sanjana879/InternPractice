@@ -114,6 +114,24 @@ Interests
 - Swimming
 - TV Addict
 
+### Kalyan(Full Stack Developer)
+Experience 
+Made a loan application website with Angular as Front end 
+Involved in working the Django Rest Framework API 
+Implemented the Authentication logic of the application using AWS Cognito
+Created SQL Table and PL/SQL Stored procedures and Triggers that are required for the application
+
+Interests
+- Cricket(Sport)
+- Music
+- Cooking
+
+Strengths
+
+-Good communication skills
+-Teamwork
+-Quick Learner
+
 ## Database Team (Firebase)
 ### Martin Vityk
 Strengths
@@ -258,5 +276,10 @@ Interests
 	- Parks and Rec
 - Ultimate Frisbee
 - Photography
+
+
+
+
+
 
 
