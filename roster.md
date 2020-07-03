@@ -186,6 +186,18 @@ Collecting Vinyls
 Reading autobiograpies
 Traveling (Have been to England, Wales, Montreal, and Amsterdam)
 
+### Sanjana Yadav (Database/Architect)
+Strengths
+	- Backend development with Java, C, Python, SQL
+	- Frontend development with Django, Flask, and React
+
+Experience
+	- Made a winning full stack application with Flask, API calls, and SQL database for a hackathon
+
+Interests:
+	- Reading
+	- Photography
+
 ## Mobile Team
 ### Juan Becerra (Mobile)
 Stengths
