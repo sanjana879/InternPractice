@@ -14,6 +14,13 @@ var amonte = {
 
 ## Web Developers
 
+### Tanya Malik (Back-End Developer)
+    var tanya = {
+    backEndDevTeam: true
+    hobbies=['Piano','Spending Time WIth Family', 'Making Desserts']
+    Strengths:['Hardworking','Eager to Learn','Friendly']
+    }
+
 ### Iniya Rajamani (Front-End Development Team)
 ``` js
 var amonte = {
