@@ -10,7 +10,7 @@
   */
  function toPigLatin(input) {
      if(typeof input != 'string') {
-         return "input was not a string";
+         throw "input was not a string";
      }
      input.toLowerCase;
      let output = "";
