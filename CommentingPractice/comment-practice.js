@@ -27,10 +27,8 @@ import * as luis from './services/backwardsName.js';
      let luisMyName = "Luis Moran"
      console.log(luis.backwardsName(luisMyName));
 
-
-    // everyone's has been done, so I repeated one and did my own
-    console.log(amonte.randomlyCapitalize("hello"));
-    console.log(toPigLatin("book"));
+     let greeting = "hello";
+     console.log(martin.addSpace(greeting));
  })();
 
 
