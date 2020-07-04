@@ -14,9 +14,9 @@ import * as martin from './services/spaces.js';
     Template.printInstructions();
     var name = "AmonteAndrews";
      console.log(amonte.randomlyCapitalize(name));
-     console.log(myName());
-    //used my own function because it doesnt seem like anybody else added something
-    var space = "space is large";
+     myName();
+     //used my own function because it doesnt seem like anybody else added something
+     var space = "space is large";
      console.log(amonte.randomlyCapitalize(space));
  })()
 
