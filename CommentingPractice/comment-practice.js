@@ -28,6 +28,8 @@ import * as henry from './services/encode.decode.js';
      let greeting = "hello";
      console.log(martin.addSpace(greeting));
 
+
+     /**Henrys service addition */
      let secretMessage = "Slack Practice";
      console.log(henry.encode(secretMessage));
  })();
