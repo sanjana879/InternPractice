@@ -7,6 +7,10 @@ import * as amonte from './services/capitalizer.js';
 import { myName }  from './services/practice.js';
 import * as martin from './services/spaces.js';
 import { toPigLatin } from './services/piglatin.js';
+<<<<<<< HEAD
+=======
+
+>>>>>>> ef92534cb24e6863cacd9661c6e46174aad7650f
 
 
 
