@@ -51,3 +51,4 @@ function decode(input){
     return (decodedString);
 
 }
+export { dict, encode, getKeyByValue,decode}
