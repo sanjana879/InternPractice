@@ -9,9 +9,7 @@ import * as martin from './services/spaces.js';
 import { toPigLatin } from './services/piglatin.js';
 import * as luis from './services/backwardsName.js';
 import * as ramitha from './services/lowercase.js';
-
-
-
+import * as Arithmetic from './services/arithmetic.js';
 
 ( function() {
     Template.printInstructions();
@@ -31,6 +29,12 @@ import * as ramitha from './services/lowercase.js';
     
     var word = "WORD";
     console.log(ramitha.lowercase(word));
+
+    var num1 = 10, num2 = 2;
+    console.log(Arithmetic.Add(num1, num2) + " :: " +
+                Arithmetic.Subtract(num1, num2) + " :: " +
+                Arithmetic.Multiply(num1, num2) + " :: " +
+                Arithmetic.Divide(num1, num2));
  })();
 
 
