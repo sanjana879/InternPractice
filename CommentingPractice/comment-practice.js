@@ -9,8 +9,7 @@ import * as martin from './services/spaces.js';
 import { toPigLatin } from './services/piglatin.js';
 import * as luis from './services/backwardsName.js';
 import * as ramitha from './services/lowercase.js';
-
-
+import * as sanjana from './services/product.js';
 
 
 ( function() {
@@ -31,6 +30,11 @@ import * as ramitha from './services/lowercase.js';
     
     var word = "WORD";
     console.log(ramitha.lowercase(word));
+
+	var num1 = 8;
+	var num2 = 9;
+	console.log(sanjana.product(num1,num2));
+
  })();
 
 
