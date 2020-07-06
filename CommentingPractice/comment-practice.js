@@ -8,6 +8,7 @@ import { myName }  from './services/practice.js';
 import * as martin from './services/spaces.js';
 import { toPigLatin } from './services/piglatin.js';
 import * as luis from './services/backwardsName.js';
+import * as mitchell from './services/caesarCipher.js';
 
 
 
@@ -27,6 +28,9 @@ import * as luis from './services/backwardsName.js';
 
      let greeting = "hello";
      console.log(martin.addSpace(greeting));
+
+     let message = "Mitchell";
+     console.log(mitchell.caesarCipher(message));
  })();
 
 
