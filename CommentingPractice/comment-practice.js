@@ -11,6 +11,10 @@ import * as luis from './services/backwardsName.js';
 import * as ramitha from './services/lowercase.js';
 import * as sanjana from './services/product.js';
 import * as Arithmetic from './services/arithmetic.js';
+import * as mitchell from './services/caesarCipher.js';
+
+
+
 
 ( function() {
     Template.printInstructions();
@@ -27,6 +31,7 @@ import * as Arithmetic from './services/arithmetic.js';
 
      let greeting = "hello";
      console.log(martin.addSpace(greeting));
+
     
     var word = "WORD";
     console.log(ramitha.lowercase(word));
@@ -42,6 +47,11 @@ import * as Arithmetic from './services/arithmetic.js';
                 Arithmetic.Subtract(num1, num2) + " :: " +
                 Arithmetic.Multiply(num1, num2) + " :: " +
                 Arithmetic.Divide(num1, num2));
+
+
+
+     let message = "Mitchell";
+     console.log(mitchell.caesarCipher(message));
 
  })();
 
