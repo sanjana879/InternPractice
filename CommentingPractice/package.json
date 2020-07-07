@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "debug": "npm update && gulp doc && rollup comment-practice.js --file main.js --format cjs && node --nolazy --inspect main.js"
+    "debug": "gulp doc && rollup comment-practice.js --file main.js --format cjs && node --nolazy --inspect main.js"
   },
   "repository": {
     "type": "git",
