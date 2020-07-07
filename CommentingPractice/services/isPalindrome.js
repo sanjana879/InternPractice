@@ -34,4 +34,4 @@ function isPalindrome(input)
 	return true;
 }
 
-
+export { isPalindrome }
