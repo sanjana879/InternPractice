@@ -19,4 +19,4 @@ From within the CommentingPractice folder, run the following in a terminal:
 npm run-script debug
 ```
 
-**Note: You may need to run ```npm update ``` to have node pull down any new dependencies since your last fetch.
+**Note: You may need to run ```npm install ``` to have node pull down any new dependencies since your last fetch.
