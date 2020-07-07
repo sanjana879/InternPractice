@@ -13,6 +13,8 @@ import * as sanjana from './services/product.js';
 import * as Arithmetic from './services/arithmetic.js';
 import * as mitchell from './services/caesarCipher.js';
 import * as adil from './services/splitor.js';
+import * as giovann from './services/test.js';
+
 
 
 
@@ -56,6 +58,9 @@ import * as adil from './services/splitor.js';
 
      var MyString = "My name is Adil Merribi";
      console.log(adil.myChars(MyString));
+
+     
+     console.log(giovann.helloWorld);
 
  })();
 
