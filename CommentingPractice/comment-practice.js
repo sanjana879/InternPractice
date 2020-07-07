@@ -13,6 +13,7 @@ import * as sanjana from './services/product.js';
 import * as Arithmetic from './services/arithmetic.js';
 import * as mitchell from './services/caesarCipher.js';
 import * as adil from './services/splitor.js';
+import * as adrianna from './services/sum.js';
 
 
 
@@ -39,7 +40,11 @@ import * as adil from './services/splitor.js';
 
 	var num1 = 8;
 	var num2 = 9;
-	console.log(sanjana.product(num1,num2));
+    console.log(sanjana.product(num1,num2));
+    
+
+    /** Sum function from sum.js imported as adrianna. */
+    console.log(adrianna.sum(num1, num2));
 
 
     var num1 = 10, num2 = 2;
