@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+CommentingPractice/node_modules/
+CommentingPractice/out/
+CommentingPractice/.DS_Store
+CommentingPractice/main.js
+.DS_Store
+CommentingPractice/docs/gen/

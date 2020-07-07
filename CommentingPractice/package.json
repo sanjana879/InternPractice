@@ -1,0 +1,30 @@
+{
+  "name": "commentingpractice",
+  "version": "1.0.0",
+  "description": "An environment to practice javscript commenting ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "gulp doc && rollup comment-practice.js --file main.js --format cjs && node --nolazy --inspect main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turnout-Activism/InternPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turnout-Activism/InternPractice/issues"
+  },
+  "homepage": "https://github.com/Turnout-Activism/InternPractice#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-jsdoc3": "^3.0.0",
+    "jsdoc": "^3.6.4"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "rollup": "^2.19.0"
+  }
+}
