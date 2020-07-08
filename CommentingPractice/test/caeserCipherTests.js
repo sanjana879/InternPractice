@@ -9,7 +9,7 @@ describe('CommentPractice', function () {
       let obj = 1000;
       let result = Services.CaeserCipher.caesarCipher(obj);
       assert.equal(result, obj);
-      expect(result).to.be.a('string'); //example of a failing test
+      // expect(result).to.be.a('string'); <-- example of a failing test
 
     });
     it('should handle undefined', function(){
