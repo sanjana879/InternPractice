@@ -3,6 +3,7 @@ class Animal{
     constructor(){
         var name;
         var group;
+        var heterotroph;
     }
 
     getName(){
@@ -19,6 +20,10 @@ class Animal{
 
     setGroup(tempGroup){
         group = tempGroup;
+    }
+
+    getHeterotroph(){
+        return heterotroph;
     }
 }
 
@@ -53,5 +58,13 @@ class Bird extends Animal{
 
     setEggSize(tempEggSize){
         eggSize = tempEggSize;
+    }
+
+    getHeterotroph(){
+        return heterotroph;
+    }
+
+    setHeterotroph(tempHeterotroph){
+        heterotroph = tempHeterotroph;
     }
 }
