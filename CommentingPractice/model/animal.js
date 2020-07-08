@@ -7,19 +7,19 @@ class Animal{
     }
 
     getName(){
-        return name;
+        return this.name;
     }
 
     setName(tempName){
-        name = tempName;
+        this.name = tempName;
     }
 
     getGroup(){
-        return group;
+        return this.group;
     }
 
     setGroup(tempGroup){
-        group = tempGroup;
+        this.group = tempGroup;
     }
 
     getHeterotroph(){
@@ -37,34 +37,52 @@ class Bird extends Animal{
     }
 
     getFeatherColor(){
-        return featherColor;
+        return this.featherColor;
     }
 
     setFeatherColor(tempFeatherColor){
-        featherColor = tempFeatherColor;
+        this.featherColor = tempFeatherColor;
     }
 
     getWingSpan(){
-        return wingSpan;
+        return this.wingSpan;
     }
 
-    setFeatherColor(tempWingSpan){
-        wingSpan = tempWingSpan;
+    setWingSpan(tempWingSpan){
+        this.wingSpan = tempWingSpan;
     }
 
     getEggSize(){
-        return eggSize;
+        return this.eggSize;
     }
 
     setEggSize(tempEggSize){
-        eggSize = tempEggSize;
+        this.eggSize = tempEggSize;
     }
 
     getHeterotroph(){
-        return heterotroph;
+        return this.heterotroph;
     }
 
     setHeterotroph(tempHeterotroph){
-        heterotroph = tempHeterotroph;
+        this.heterotroph = tempHeterotroph;
     }
 }
+
+let a = new Animal();
+a.setName("Rooster");
+a.setGroup("Bird");
+
+let b = new Bird();
+b.setName("Eagle");
+b.setGroup("Bird");
+b.setFeatherColor("Brown/White");
+b.setWingSpan("2 meters");
+b.setEggSize("Large");
+b.setHeterotroph("Carnivore");
+
+console.log(a.getName());
+console.log(a.getGroup());
+
+console.log("The " + b.getName() + " is a " + b.getFeatherColor() + " " + b.getGroup() + " and a(n) " + b.getHeterotroph());
+console.log("With a wingspan of " + b.getWingSpan() + " and lays " + b.getEggSize() + " eggs.");
