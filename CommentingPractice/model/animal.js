@@ -68,3 +68,12 @@ class Bird extends Animal{
         heterotroph = tempHeterotroph;
     }
 }
+
+function Mammal(){
+    this.mammalName = "Mammal Name";
+    throw new Error("Instance of Abstract class cannot be instantiated");
+}
+
+Mammal.prototype.display = function(){
+    return this.mammalName;
+}
