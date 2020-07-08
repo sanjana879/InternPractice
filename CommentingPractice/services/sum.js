@@ -10,7 +10,7 @@
 * return int 
 */
 function sum(x, y) {
-    return x * y
+    return x + y
 }
 
 
