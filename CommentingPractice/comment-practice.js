@@ -9,6 +9,7 @@ import * as martin from './services/spaces.js';
 import { toPigLatin } from './services/piglatin.js';
 import * as luis from './services/backwardsName.js';
 import * as ramitha from './services/lowercase.js';
+import * as sum from './services/sumOfNumber.js';
 import * as sanjana from './services/product.js';
 import * as Arithmetic from './services/arithmetic.js';
 import * as mitchell from './services/caesarCipher.js';
@@ -35,6 +36,9 @@ import * as adil from './services/splitor.js';
     
     var word = "WORD";
     console.log(ramitha.lowercase(word));
+
+	  let num = 5;
+	  console.log(sum.sumOfNumber(num));
 
 
 	var num1 = 8;
