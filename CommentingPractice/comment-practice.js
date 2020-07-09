@@ -14,6 +14,7 @@ import * as sanjana from './services/product.js';
 import * as Arithmetic from './services/arithmetic.js';
 import * as mitchell from './services/caesarCipher.js';
 import * as adil from './services/splitor.js';
+import * as richard from './services/vowelSwitcher.js';
 
 
 
@@ -33,7 +34,7 @@ import * as adil from './services/splitor.js';
      let greeting = "hello";
      console.log(martin.addSpace(greeting));
 
-    
+
     var word = "WORD";
     console.log(ramitha.lowercase(word));
 
@@ -61,7 +62,8 @@ import * as adil from './services/splitor.js';
      var MyString = "My name is Adil Merribi";
      console.log(adil.myChars(MyString));
 
+     var name = "Richard";
+     console.log(richard.randomVowels(name));
+
+
  })();
-
-
-
