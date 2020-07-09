@@ -1,4 +1,4 @@
-class Animal{
+export default class Animal{
 
     constructor(){
         var name;
@@ -27,7 +27,7 @@ class Animal{
     }
 }
 
-class Bird extends Animal{
+export class Bird extends Animal{
 
     constructor(){
         super();
@@ -69,20 +69,20 @@ class Bird extends Animal{
     }
 }
 
-let a = new Animal();
-a.setName("Rooster");
-a.setGroup("Bird");
+// let a = new Animal();
+// a.setName("Rooster");
+// a.setGroup("Bird");
 
-let b = new Bird();
-b.setName("Eagle");
-b.setGroup("Bird");
-b.setFeatherColor("Brown/White");
-b.setWingSpan("2 meters");
-b.setEggSize("Large");
-b.setHeterotroph("Carnivore");
+// let b = new Bird();
+// b.setName("Eagle");
+// b.setGroup("Bird");
+// b.setFeatherColor("Brown/White");
+// b.setWingSpan("2 meters");
+// b.setEggSize("Large");
+// b.setHeterotroph("Carnivore");
 
-console.log(a.getName());
-console.log(a.getGroup());
+// console.log(a.getName());
+// console.log(a.getGroup());
 
-console.log("The " + b.getName() + " is a " + b.getFeatherColor() + " " + b.getGroup() + " and a(n) " + b.getHeterotroph());
-console.log("With a wingspan of " + b.getWingSpan() + " and lays " + b.getEggSize() + " eggs.");
+// console.log("The " + b.getName() + " is a " + b.getFeatherColor() + " " + b.getGroup() + " and a(n) " + b.getHeterotroph());
+// console.log("With a wingspan of " + b.getWingSpan() + " and lays " + b.getEggSize() + " eggs.");

@@ -16,7 +16,6 @@ import * as mitchell from './services/caesarCipher.js';
 import * as adil from './services/splitor.js';
 
 
-
 ( function() {
     Template.printInstructions();
     var name = "AmonteAndrews";
@@ -60,6 +59,10 @@ import * as adil from './services/splitor.js';
 
      var MyString = "My name is Adil Merribi";
      console.log(adil.myChars(MyString));
+
+    //utilizing template.js model for task 3 ~ Kyle Kobayashi
+     let temp = new Template("ROYBGIV","The colors of the rainbow in their respective order");
+     console.log(temp.name + ": " + temp.description);
 
  })();
 
