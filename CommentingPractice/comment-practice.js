@@ -9,10 +9,11 @@ import * as martin from './services/spaces.js';
 import { toPigLatin } from './services/piglatin.js';
 import * as luis from './services/backwardsName.js';
 import * as ramitha from './services/lowercase.js';
+import * as sum from './services/sumOfNumber.js';
 import * as sanjana from './services/product.js';
 import * as Arithmetic from './services/arithmetic.js';
 import * as mitchell from './services/caesarCipher.js';
-
+import * as adil from './services/splitor.js';
 
 
 
@@ -36,6 +37,9 @@ import * as mitchell from './services/caesarCipher.js';
     var word = "WORD";
     console.log(ramitha.lowercase(word));
 
+	  let num = 5;
+	  console.log(sum.sumOfNumber(num));
+
 
 	var num1 = 8;
 	var num2 = 9;
@@ -52,6 +56,10 @@ import * as mitchell from './services/caesarCipher.js';
 
      let message = "Mitchell";
      console.log(mitchell.caesarCipher(message));
+
+
+     var MyString = "My name is Adil Merribi";
+     console.log(adil.myChars(MyString));
 
  })();
 
