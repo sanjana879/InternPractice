@@ -16,6 +16,7 @@ import * as mitchell from './services/caesarCipher.js';
 import * as adil from './services/splitor.js';
 import * as adrianna from './services/sum.js';
 import * as glory from './model/rome.js';
+import * as animal from './model/animal.js';
 
 ( function() {
     Template.printInstructions();
@@ -33,7 +34,7 @@ import * as glory from './model/rome.js';
      let greeting = "hello";
      console.log(martin.addSpace(greeting));
 
-    
+
     var word = "WORD";
     console.log(ramitha.lowercase(word));
 
@@ -44,7 +45,7 @@ import * as glory from './model/rome.js';
 	var num1 = 8;
 	var num2 = 9;
     console.log(sanjana.product(num1,num2));
-    
+
 
     /** Sum function from sum.js imported as adrianna. */
     console.log(adrianna.sum(num1, num2));
@@ -70,9 +71,12 @@ import * as glory from './model/rome.js';
      let temp = new Template("ROYBGIV","The colors of the rainbow in their respective order");
      console.log(temp.name + ": " + temp.description);
 
-    
+
     var templateObj = new Template("Martin", "First Commit")
     console.log(templateObj.name)
+
+    let bear = new animal("bear", "mammal", "omnivore");
+    console.log(bear.getName() + " is a " + bear.getGroup());
 
  })();
 
