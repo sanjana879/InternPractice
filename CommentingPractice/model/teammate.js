@@ -7,8 +7,7 @@
  * @module
  */
 
-//  export default 
- class TeamMate {
+ export default class TeamMate {
     
     /** 
     * @description creates a Teammate object that will have the first name and last name, with a choice to set a team name. 
