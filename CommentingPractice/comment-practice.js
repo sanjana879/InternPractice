@@ -17,7 +17,6 @@ import * as adil from './services/splitor.js';
 import * as adrianna from './services/sum.js';
 import * as glory from './model/rome.js';
 
-
 ( function() {
     Template.printInstructions();
     var name = "AmonteAndrews";
@@ -66,10 +65,15 @@ import * as glory from './model/rome.js';
      var MyString = "My name is Adil Merribi";
      console.log(adil.myChars(MyString));
 
+
+    //utilizing template.js model for task 3 ~ Kyle Kobayashi
+     let temp = new Template("ROYBGIV","The colors of the rainbow in their respective order");
+     console.log(temp.name + ": " + temp.description);
+
     
     var templateObj = new Template("Martin", "First Commit")
     console.log(templateObj.name)
-    
+
  })();
 
 
