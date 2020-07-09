@@ -25,6 +25,7 @@
   "dependencies": {
     "esm": "^3.2.25",
     "express": "^4.17.1",
-    "rollup": "^2.19.0"
+    "rollup": "^2.20.0"
+
   }
 }
