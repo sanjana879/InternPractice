@@ -6,7 +6,7 @@
 /**
  * @module converting hex color to rgb and rgb to hex
  */
-class ColorConverter {
+export default class ColorConverter {
   /**
    *
    * @param name{string} name - Name
@@ -51,5 +51,5 @@ class ColorConverter {
   }
 }
 
-module.exports = ColorConverter
+
 
