@@ -3,10 +3,15 @@
  * @author Amonte Andrews (no team)
  */
 
+/**
+ * @module
+ */
 export default class Template {
 
     /** 
      * Prints out the assignment instructions
+     * @static
+     * @description Prints the instructions
      */
     static printInstructions() 
     {
@@ -43,13 +48,13 @@ export default class Template {
     /**
      * 
      * Constructor 
-     * @param {string} name 
-     * @param {string} description 
+     * @param {string} name - Name
+     * @param {string} description - Description
      */
     constructor(name, description)
     {
         this.name = name;
-        this.desciption = description;
+        this.description = description;
 
     }
 
