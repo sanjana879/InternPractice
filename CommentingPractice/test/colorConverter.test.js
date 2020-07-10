@@ -3,7 +3,7 @@ const it = require('mocha').it
 
 const assert = require('chai').assert;
 const expect = require('chai').expect;
-const ColorConverter = require('../services/colorConverter')
+import ColorConverter from '../services/colorConverter'
 
 describe('Color Converter unit tests', () => {
   describe('pack-1', () => {
