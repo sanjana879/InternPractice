@@ -8,6 +8,7 @@ import { myName }  from './services/practice.js';
 import * as martin from './services/spaces.js';
 import { toPigLatin } from './services/piglatin.js';
 import * as luis from './services/backwardsName.js';
+import * as henry from './services/encode-decode.js';
 import * as ramitha from './services/lowercase.js';
 import * as sum from './services/sumOfNumber.js';
 import * as sanjana from './services/product.js';
@@ -15,6 +16,8 @@ import * as Arithmetic from './services/arithmetic.js';
 import * as mitchell from './services/caesarCipher.js';
 import * as adil from './services/splitor.js';
 import * as richard from './services/vowelSwitcher.js';
+import * as adrianna from './services/sum.js';
+import * as glory from './model/rome.js';
 
 
 
@@ -35,6 +38,10 @@ import * as richard from './services/vowelSwitcher.js';
      console.log(martin.addSpace(greeting));
 
 
+
+     let secretMessage = "Slack Practice";
+     console.log(henry.encode(secretMessage));
+
     var word = "WORD";
     console.log(ramitha.lowercase(word));
 
@@ -44,7 +51,11 @@ import * as richard from './services/vowelSwitcher.js';
 
 	var num1 = 8;
 	var num2 = 9;
-	console.log(sanjana.product(num1,num2));
+    console.log(sanjana.product(num1,num2));
+    
+
+    /** Sum function from sum.js imported as adrianna. */
+    console.log(adrianna.sum(num1, num2));
 
 
     var num1 = 10, num2 = 2;
@@ -66,4 +77,13 @@ import * as richard from './services/vowelSwitcher.js';
      console.log(richard.randomVowels(name));
 
 
+    //utilizing template.js model for task 3 ~ Kyle Kobayashi
+     let temp = new Template("ROYBGIV","The colors of the rainbow in their respective order");
+     console.log(temp.name + ": " + temp.description);
+
+    
+    var templateObj = new Template("Martin", "First Commit")
+    console.log(templateObj.name)
+
  })();
+
