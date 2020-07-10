@@ -18,6 +18,8 @@ import * as adil from './services/splitor.js';
 import * as richard from './services/vowelSwitcher.js';
 import * as adrianna from './services/sum.js';
 import * as glory from './model/rome.js';
+import TeamMate from './model/teammate.js'; 
+
 
 
 
@@ -83,7 +85,13 @@ import * as glory from './model/rome.js';
 
     
     var templateObj = new Template("Martin", "First Commit")
-    console.log(templateObj.name)
+    console.log(templateObj.name); 
+
+    //utilizing rome.js model for task 3 ~ Luis Moran 
+    const whoIsEmperor = new glory.Emperor(true, 10); 
+    console.log(whoIsEmperor.whoIsHe());
+
+
 
  })();
 
