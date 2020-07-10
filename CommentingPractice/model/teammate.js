@@ -39,7 +39,7 @@
 
     //function hello will return statement using instances for first name, last name and team name
     hello(){
-        console.log(`Hello my name is ${this.fName} ${this.lName} and I am on team: ${this.tname === undefined ? 'none': this.tName }`)
+        console.log(`Hello my name is ${this.fName} ${this.lName} and I am on team: ${this.tName === undefined ? 'none': this.tName }`)
     }
 
 }
