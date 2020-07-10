@@ -19,7 +19,7 @@ import * as richard from './services/vowelSwitcher.js';
 import * as adrianna from './services/sum.js';
 import * as glory from './model/rome.js';
 import TeamMate from './model/teammate.js'; 
-import colorConverter from './services/colorConverter'; 
+import ColorConverter from './services/colorConverter'; 
 
 
 
