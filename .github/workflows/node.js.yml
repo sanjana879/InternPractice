@@ -25,5 +25,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: cd CommentingPractice && npm ci
-    - run: cd CommentingPractice && npm run debug --if-present
     - run: cd CommentingPractice && npm test
+    - run: cd CommentingPractice && npm run debug --if-present
