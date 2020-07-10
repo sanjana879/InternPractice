@@ -25,11 +25,11 @@ function encode(input){
         return input;
     }
     let encodedArray=[];
-    for (letter of input){
+    for (var letter of input){
         encodedArray.push(dict[letter])
     }
-    encodedString=encodedArray.join('');
-    return (encodedString);
+    
+    return encodedArray.join('');
 
 }
 
@@ -43,12 +43,12 @@ function decode(input){
         return input;
     }
     let decodedArray=[];
-    for (letter of input){
+    for (var letter of input){
 
         decodedArray.push(getKeyByValue(dict,letter))
     }
-    decodedString=decodedArray.join('');
-    return (decodedString);
+    
+    return decodedArray.join('');
 
 }
 export {encode,decode}
