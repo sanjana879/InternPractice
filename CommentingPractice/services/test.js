@@ -5,11 +5,10 @@
 
  /**
   * @param {string} empty
-  * prints out Hello World!
   */
 
  function helloWorld() {
-     console.log("Hello World!");
+     return "Hello World!";
  }
 
  export { helloWorld }
