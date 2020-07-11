@@ -85,7 +85,9 @@ import ColorConverter from './services/colorConverter';
     var templateObj = new Template("Martin", "First Commit")
     console.log(templateObj.name); 
 
-    let bear = new Animal("bear", "mammal", "omnivore");
+    let bear = new Animal();
+    bear.setName("bear");
+    bear.setGroup("mammal");
     console.log(bear.getName() + " is a " + bear.getGroup());
 
     //utilizing rome.js model for task 3 ~ Luis Moran 
