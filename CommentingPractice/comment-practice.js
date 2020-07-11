@@ -18,7 +18,7 @@ import * as adil from './services/splitor.js';
 import * as richard from './services/vowelSwitcher.js';
 import * as adrianna from './services/sum.js';
 import * as glory from './model/rome.js';
-import * as animal from './model/animal.js';
+import Animal from './model/animal.js';
 import TeamMate from './model/teammate.js'; 
 import ColorConverter from './services/colorConverter'; 
 
@@ -85,7 +85,7 @@ import ColorConverter from './services/colorConverter';
     var templateObj = new Template("Martin", "First Commit")
     console.log(templateObj.name); 
 
-    let bear = new animal.Animal("bear", "mammal", "omnivore");
+    let bear = new Animal("bear", "mammal", "omnivore");
     console.log(bear.getName() + " is a " + bear.getGroup());
 
     //utilizing rome.js model for task 3 ~ Luis Moran 
