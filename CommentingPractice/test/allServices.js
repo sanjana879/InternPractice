@@ -3,6 +3,7 @@
  */
 const CapitalizerService = require('../services/capitalizer') ;
 const CaeserCipherService = require('../services/caesarCipher')
+const SumOfNumberservice = require('../services/sumOfNumber')
 
 import Template from '../model/template.js';
 import * as RandomCapitalizer from '../services/capitalizer.js';
@@ -15,5 +16,6 @@ import * as Product from '../services/product.js';
 import * as Arithmetic from '../services/arithmetic.js';
 import * as CaeserCipher from '../services/caesarCipher.js';
 import * as Splitter from '../services/splitor.js';
+import * as SumOfNumber from '../services/sumOfNumber.js';
 
- module.exports = {Template, RandomCapitalizer, myName, Spaces, Backwards, toPigLatin, Lowercase, Product, Arithmetic, CaeserCipher, Splitter}
+ module.exports = {Template, RandomCapitalizer, myName, Spaces, Backwards, toPigLatin, Lowercase, Product, Arithmetic, CaeserCipher, Splitter, SumOfNumber}
