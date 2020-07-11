@@ -228,7 +228,6 @@ Interests
 - Gaming
 - Coding
 
-
 ### Disha Patel (Mobile Dev)
 Strengths
 - JAVA, JSON, SQL
@@ -242,7 +241,6 @@ Interests
 - Music
 - Reading
 - Yoga
-
 ### Sonia Saitawdekar (Mobile Dev)
 Strengths
 - Java
