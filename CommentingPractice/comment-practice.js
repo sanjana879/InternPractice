@@ -52,8 +52,8 @@ import ColorConverter from './services/colorConverter';
 	  console.log(sum.sumOfNumber(num));
 
 
-	var num1 = 8;
-	var num2 = 9;
+	  var num1 = 8;
+	  var num2 = 9;
     console.log(sanjana.product(num1,num2));
     
 
@@ -91,6 +91,11 @@ import ColorConverter from './services/colorConverter';
     //utilizing rome.js model for task 3 ~ Luis Moran 
     const whoIsEmperor = new glory.Emperor(true, 10); 
     console.log(whoIsEmperor.whoIsHe());
+
+    const member = new TeamMate("Sanjana", "Yadav");
+    console.log(whoIsEmperor.whoIsHe());	  member.setTeamName("Interns");
+
+    member.hello();
 
 
 
