@@ -11,7 +11,7 @@
   */
  function sentenceToWords(sentence)
  {
-    if(typeof input != 'string') //Makes sure the input is a String
+    if(typeof sentence != 'string') //Makes sure the input is a String
         throw "Input was not a String!"; //Throws an error if not a String
 
     var words = sentence.split(" "); //Split method between every space
