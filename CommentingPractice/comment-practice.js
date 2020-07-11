@@ -60,7 +60,7 @@ import * as giovann from './services/test.js';
      console.log(adil.myChars(MyString));
 
      
-    giovann.helloWorld();
+    console.log(giovann.helloWorld());
 
  })();
 
