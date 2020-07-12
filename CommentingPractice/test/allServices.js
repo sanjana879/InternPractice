@@ -17,5 +17,6 @@ import * as Arithmetic from '../services/arithmetic.js';
 import * as CaeserCipher from '../services/caesarCipher.js';
 import * as Splitter from '../services/splitor.js';
 import * as SumOfNumber from '../services/sumOfNumber.js';
+import * as Sum from '../services/sum.js';
 
- module.exports = {Template, RandomCapitalizer, myName, Spaces, Backwards, toPigLatin, Lowercase, Product, Arithmetic, CaeserCipher, Splitter, SumOfNumber}
+ module.exports = {Template, RandomCapitalizer, myName, Spaces, Backwards, toPigLatin, Lowercase, Product, Arithmetic, CaeserCipher, Splitter, SumOfNumber,Sum}

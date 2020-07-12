@@ -10,6 +10,9 @@
 * return int 
 */
 function sum(x, y) {
+    if(typeof x != 'number' || typeof y != 'number') {
+        return "Please provide Numbers only"
+    }
     return x + y
 }
 
