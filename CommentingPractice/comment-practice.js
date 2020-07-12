@@ -22,7 +22,7 @@ import * as adrianna from './services/sum.js';
 import * as glory from './model/rome.js';
 import TeamMate from './model/teammate.js'; 
 import ColorConverter from './services/colorConverter'; 
-import * as language from './model/language';
+
 
 
 
@@ -106,14 +106,7 @@ import * as language from './model/language';
 
     member.hello();
 
-    // calling the Language class
-    let sam = new language.English();
-    language.intro(sam);
-    let Amelie = new language.French();
-    language.intro(Amelie);
-    let Disha = new language.Language();
-    language.intro(Disha);
-
+   
     
 
  })();
