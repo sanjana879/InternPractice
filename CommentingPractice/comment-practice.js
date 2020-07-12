@@ -15,6 +15,7 @@ import * as sanjana from './services/product.js';
 import * as Arithmetic from './services/arithmetic.js';
 import * as mitchell from './services/caesarCipher.js';
 import * as adil from './services/splitor.js';
+import * as iniya from './services/wordArray.js';
 
 import * as giovann from './services/test.js';
 import * as richard from './services/vowelSwitcher.js';
@@ -77,12 +78,11 @@ import ColorConverter from './services/colorConverter';
 
      var MyString = "My name is Adil Merribi";
      console.log(adil.myChars(MyString));
-
-
+ 
+     let sentence = "TurnUp is an app that centralizes youth activism by connecting organizations, campaigns and movements."
+     console.log(iniya.sentenceToWords(sentence));
      
-    console.log(giovann.helloWorld());
-
-
+     console.log(giovann.helloWorld());
 
      var name = "Richard";
      console.log(richard.randomVowels(name));
