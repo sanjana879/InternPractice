@@ -54,7 +54,7 @@ export default class Template {
     constructor(name, description)
     {
         this.name = name;
-        this.desciption = description;
+        this.description = description;
 
     }
 
