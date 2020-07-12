@@ -26,6 +26,7 @@ import TeamMate from './model/teammate.js';
 import ColorConverter from './services/colorConverter'; 
 
 
+
 ( function() {
     Template.printInstructions();
     var name = "AmonteAndrews";
