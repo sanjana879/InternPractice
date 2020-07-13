@@ -1,6 +1,6 @@
 
-const assert = require('assert'); 
-const Services = require('./allServices'); 
+const assert = require('assert');
+const Services = require('./allServices');
 const expect = require('chai').expect
 
 describe('CommentPractice', function () {
@@ -15,6 +15,14 @@ describe('CommentPractice', function () {
         let obj = 15;
         expect(Services.SumOfNumber.sumOfNumber(obj)).to.be.a('number')
 
+    });
+    it('should throw type error', function(){
+      let obj = "string";
+      expect(() => Services.SumOfNumber.sumOfNumber(obj)).to.throw(TypeError);
+    });
+    it('should not throw type error', function(){
+      let obj = 15;
+      expect(() => Services.SumOfNumber.sumOfNumber(obj)).to.not.throw(TypeError);
     });
   });
 });
