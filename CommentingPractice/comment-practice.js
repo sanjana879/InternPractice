@@ -108,6 +108,12 @@ import ColorConverter from './services/colorConverter';
 
     member.hello();
 
+    //utilizing animal.js for task 3 ~ Ramitha Kotarkonda
+    let lizard = new Animal();
+    lizard.setName("lizard");
+    lizard.setGroup("reptiles");
+    console.log(lizard.getName() + " is a " + lizard.getGroup());
+
 
  })();
 
