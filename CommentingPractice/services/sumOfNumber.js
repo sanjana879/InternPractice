@@ -6,13 +6,17 @@
 
  /**
   * It will return sum of the number
-  * @param {number} input 
+  * @param {number} input
   * @returns number
   */
 
 
 
 function sumOfNumber(number) {
+  if(typeof number !== "number") {
+    throw new TypeError("input must be a number");
+  }
+
 	let sum = 0;
 	//iterate through number and adding that each number into sum
 	for (let i = 1; i <= number; i++) {
